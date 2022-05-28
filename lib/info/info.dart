@@ -1,0 +1,17 @@
+const info = [
+  "Hi!",
+  "Soil Classification",
+  "Plant Disease Classification",
+  "Take a photo",
+  "Pick from gallery",
+  "Predict",
+  "Recommend crops",
+  "More information",
+  "Recommend Pesticides",
+  "My Soil",
+  "Settings",
+  "Change Language",
+  "English",
+  "Telugu",
+  "Pesticides",
+];
